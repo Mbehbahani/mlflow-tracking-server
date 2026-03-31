@@ -1,4 +1,4 @@
-# MLflow Tracking Server
+# MLflow Tracking Server [Deploy Now](https://railway.com/deploy/mlflow-full?referralCode=00VX20&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 <p align="center">
   <a href="https://mlflow.org/">
