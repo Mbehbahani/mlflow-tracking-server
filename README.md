@@ -230,15 +230,6 @@ Alternative acceptable names:
 - `self-hosted-mlflow-server`
 - `mlflow-server-deployment`
 
-## SEO and discoverability
-
-This repository is intentionally documented with search-friendly terms such as:
-
-- MLflow tracking server
-- Railway MLflow deployment
-- self-hosted MLflow with PostgreSQL
-- MLflow with S3 artifact storage
-- prompt optimization and GenAI experiment tracking
 
 These terms help both search engines and LLM-based discovery systems understand the repository purpose.
 
