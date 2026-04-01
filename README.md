@@ -17,6 +17,12 @@
 
 Containerized MLflow tracking server deployment with PostgreSQL-backed metadata and optional S3-compatible artifact storage.
 
+## 🎥 Video Tutorial
+
+Watch the full step-by-step guide on YouTube:
+
+https://youtu.be/velO_OEStKc
+
 > ⭐ If this repository is useful for your work or research, consider starring it to support visibility and future development.
 
 This project exists because local MLflow is often not enough once experiments become heavier. A self-hosted server gives you a persistent web UI, cleaner experiment management, shared access, better PostgreSQL-backed metadata support, and less local machine clutter from artifacts and databases.
